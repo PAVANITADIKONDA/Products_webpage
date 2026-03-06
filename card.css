@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.prod-info{
+    
+    box-shadow: 10px;
+    gap:40px;
+    align-items: center;
+    padding: 10px;
+    display: flex;
+    width: 670px;
+    height: 200px;
+   border: 2px solid;
+   font-size:9px;
+   font-weight: 100px;
+   margin: 10px auto;
+}
+.prod-info h3{
+    /* gap:60px; */
+    margin-bottom: 6px;
+    font-size: 9px;
+}
+.prod-info img{
+  
+    height: 200px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+}
+#totalPrice{
+    position: absolute;
+left:540px;
+    font-size: large;
+}

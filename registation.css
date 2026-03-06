@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table {
+    padding: 23px;
+    width: 300px;
+    height: 500px;
+    /* border: 2px solid; */
+    border-radius: 12px;
+    margin: 12px auto;
+    box-shadow: 2px 5px 12px 4px;
+
+}
+input{
+    width:300px;
+    height: 35px;
+}
+
